@@ -1,9 +1,3 @@
-# Archived Repository
-
-This repository has been consolidated into the master portfolio repository:
-
-https://github.com/LakshmiMounikaPulicharla/cybersecurity-internship-portfolio
-
 # Secure API Testing & Authorization Validation
 
 ## Project Overview
